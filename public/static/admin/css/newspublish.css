@@ -1,0 +1,20 @@
+body{height: auto;font-size: 13px;}
+.slt{width: 80px!important;}
+/*.col-sm-2{padding-top: 0px!important;}*/
+.fileImage{display: inline-block!important;}
+.self_file{width: 1080px!important;}
+.self_main_three{height: 302px!important;}
+.self_main_multi{height: 502px!important;}
+.upload_append_list{height:140px!important; padding:0 1em; float:left; position:relative;}
+.banner_span,.news_span{color: cornflowerblue;}
+.modal-backdrop{background-color: rgba(0,0,0,0)!important;z-index: 0!important;width: 100px!important;}
+.self_df{margin-top: 10px;}
+/*.news,.column_sl{width: 100px;float: left;margin-left: 10px;}*/
+#addr{width: 100%;display: inline-block;}
+/*.fb_posi{width: 180px;float: left;}*/
+/* 鼠标悬浮显示图片*/
+/*.wrap {position:relative;}*/
+.self_deep_menu li{padding: 14px 0 0 30px;}
+.inner {display:none;position:absolute; top:30px; left:100px;width:100px; height:100px;border:0px solid #000;background:#fff;z-index: 999}
+.child-columns{display: none;z-index: 200;position: absolute;top: 10px;}
+.child-columns-inline{background-color: rgb(140,140,140);font-size: 11px;display: inline-block;color: rgb(255,255,255);border-radius: 8%;margin-right: 15px;padding: 0 2px 0 2px}
